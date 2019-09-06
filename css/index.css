@@ -192,3 +192,46 @@ footer nav a {
     color: white;
     text-decoration: none;
 }
+
+/*About page css starts here*/
+
+.top-section {
+    margin-bottom: 25px;
+    margin-left: 15px;
+}
+
+.main-section {
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    border-top: 1px dashed black;
+    margin-left: -2%;
+}
+
+.main-section .main-content{
+    display: flex;
+    flex-wrap: wrap;
+    width: 45%;
+    border-bottom: 1px dashed black;
+    margin-top: 20px;
+    justify-content: space-between;
+}
+
+.main-content{
+    margin: 20px;
+}
+
+.main-content h3{
+    margin-top: 15px;
+}
+
+.main-content p {
+    margin-bottom: 10px;
+}
+.btn-learn-more {
+    padding: 10px;
+    border-radius: 9px;
+    width: 135px;
+    border: 1px solid black;
+    margin-bottom: 20px;
+}
