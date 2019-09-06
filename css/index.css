@@ -205,7 +205,6 @@ footer nav a {
     flex-wrap: wrap;
     width: 100%;
     border-top: 1px dashed black;
-    margin-left: -2%;
 }
 
 .main-section .main-content{
@@ -226,6 +225,7 @@ footer nav a {
 }
 
 .main-content p {
+    font-size: 12px;
     margin-bottom: 10px;
 }
 .btn-learn-more {
@@ -234,4 +234,14 @@ footer nav a {
     width: 135px;
     border: 1px solid black;
     margin-bottom: 20px;
+}
+
+.bottom-section {
+    padding: 15px;
+    align-items: left;
+    margin-bottom: 15px;
+}
+
+.bottom-section p {
+    font-size: 14px;
 }

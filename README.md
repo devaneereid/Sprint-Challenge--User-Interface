@@ -33,19 +33,28 @@ Demonstrate your understanding of this week's concepts by answering the followin
 Edit this document to include your answers after each question. Make sure to leave a blank line above and below your answer so it is clear and easy to read by your project manager
 
 1. If you were to describe semantic HTML to the next cohort of students, what would you say?
-Semantic HTML is so you can see the meaning of the web page. For example using the html to make a <p> tag will tell the web page it's a paragraph.
+
+Semantic HTML is to 'markup' your HTML, and it sends a meaning and/or information to a web page. It adds emphasis to the text that you are trying to convey. Certain tags that you use will tell the HTML if it's something like a header or paragraph.
 
 2. Name two big differences between ```display: block;``` and ```display: inline;```
-When using ```display: block;``` uses the width and has nothing on the sides of it.
-And when using ```display: inline;``` uses the blocks within the same line ex:(horizontal).
+
+display: block; is when the elements are displayed as a block. And it leaves space above and below it.
+
+display: inline; is when the elements are displayed inside the block but on the same line.
 
 3. What are the 4 areas of the box model?
-Content, padding, margin and border.
 
-4. While using flexbox, what axis does the following property work on: ```align-items: center```? It aligns the properties along the center of the page.
+Margin - border - padding and content.
+
+
+4. While using flexbox, what axis does the following property work on: 
+
+Main-axis.
 
 5. Explain why git is valuable to a team of developers.
-When changing the code it's reliable to them and can easily be used with different branches for each team member to do their work and push/ commit to share with one another. 
+
+Git becomes especially valuable to a team of developers because when changing the code it's reliable and can easily be used with different branches for each team member to do their work and use push/commit to share with one another as well. 
+
 
 You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
